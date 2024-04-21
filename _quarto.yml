@@ -2,12 +2,11 @@ project:
   type: website
 
 website:
-  title: "project.github.io"
+  title: "UNICEF"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+
 
 format:
   html:
