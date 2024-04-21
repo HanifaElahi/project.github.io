@@ -1,5 +1,6 @@
 ---
 format: 
+title: "Report"
   html: 
     code-background: true
     df-print: kable
